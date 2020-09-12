@@ -1,5 +1,5 @@
 # ZomatoPlus
-![Image of SplashScreen](https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Splash%20screen.jpg=250x)
+![Image of SplashScreen](https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Splash%20screen.jpg)
 It is an Android application based on Online Food Ordering System.
 It allows users to order food from the restaurants available on the app.
 Users can also mark their favourite restaurants on the application ,so whenever the next time they login they can directly order food from their favorite restaurants.
