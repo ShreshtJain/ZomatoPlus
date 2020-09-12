@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ForgotPasswordActivity"
+    android:background="#000000"
+    android:fitsSystemWindows="true">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rlContentMain"
+
+        >
+    <ImageView
+        android:id="@+id/logo2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:src="@drawable/logo"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:textColor="#ffffff"
+        android:id="@+id/textview1"
+        android:layout_below="@id/logo2"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:text="Enter your registered mobile number and email below."
+        android:layout_marginTop="30dp"
+        android:textSize="20dp"/>
+    <EditText
+        android:maxLength="10"
+        android:inputType="phone"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="#ffffff"
+        android:layout_below="@id/textview1"
+        android:hint="@string/str_hint"
+android:backgroundTint="@android:color/holo_red_light"
+
+        android:textSize="25sp"
+        android:id="@+id/mob"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffffff"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="#ffffff"
+        android:layout_below="@id/mob"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:hint="Email Adress"
+        android:textSize="25sp"
+        android:id="@+id/etForgetEmail"
+        android:textColor="#ffffff"
+        android:inputType="textPassword"
+        android:backgroundTint="@android:color/holo_red_light"
+
+        android:layout_marginTop="30dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etForgetEmail"
+        android:layout_centerHorizontal="true"
+        android:text="NEXT"
+        android:textColor="#ffffff"
+        android:background="#D11E05"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="30sp"
+        android:layout_margin="30dp"
+        android:id="@+id/next"
+        android:gravity="center"/>
+</RelativeLayout>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+</RelativeLayout>

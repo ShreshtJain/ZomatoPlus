@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ResetPasswordActivity"
+    android:background="#000000">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:id="@+id/rlOTP">
+
+    <ImageView
+        android:id="@+id/logo3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:src="@drawable/logo"
+        android:fitsSystemWindows="true"
+        />
+    <EditText
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="#ffffff"
+        android:layout_below="@id/logo3"
+        android:hint="Enter OTP"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textSize="25sp"
+        android:id="@+id/otp"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffffff"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_centerHorizontal="true"
+        android:textColorHint="#ffffff"
+        android:layout_below="@id/otp"
+        android:hint="Enter new password"
+        android:gravity="center"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textSize="25sp"
+        android:id="@+id/passwordnew"
+        android:textColor="#ffffff"
+        android:inputType="textPassword"
+        android:layout_marginTop="05dp"/>
+
+    <EditText
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textColorHint="#ffffff"
+        android:layout_below="@id/passwordnew"
+        android:hint="Confirm Password"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:textSize="25sp"
+        android:id="@+id/passwordcon"
+        android:textColor="#ffffff"
+        android:inputType="textPassword"
+        android:layout_marginTop="05dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/passwordcon"
+        android:layout_centerHorizontal="true"
+        android:text="NEXT"
+        android:textColor="#ffffff"
+        android:background="#D11E05"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="30sp"
+        android:id="@+id/next2"
+        android:gravity="center"/>
+
+    </RelativeLayout>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_centerInParent="true"/>
+</RelativeLayout>

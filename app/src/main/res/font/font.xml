@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>@font/poppins
+        </item>
+        <item>@font/poppins_medium</item>
+        <item>@font/roboto</item>
+        <item>@font/roboto_condensed_bold</item>
+    </array>
+</font-family>
