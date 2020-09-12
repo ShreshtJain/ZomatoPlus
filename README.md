@@ -1,21 +1,21 @@
 # ZomatoPlus
 
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Splash%20screen.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Login%20Activity.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/menu%20List2.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Restaurant.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Register%20Activity.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Payment%20Option.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Order%20history1.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Navigation%20Drawer.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Gmail%20OTP.jpeg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Menu%20List.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/My%20Profile.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/My_Cart.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Forgot%20Password.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Confirm%20OTP.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Dashboard.jpg" alt="alt text" width="400" height="400">
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Favourite%20Restaurants.jpg" alt="alt text" width="400" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Splash%20screen.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Login%20Activity.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/menu%20List2.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Restaurant.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Register%20Activity.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Payment%20Option.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Order%20history1.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Navigation%20Drawer.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Gmail%20OTP.jpeg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Menu%20List.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/My%20Profile.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/My_Cart.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Forgot%20Password.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Confirm%20OTP.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Dashboard.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Favourite%20Restaurants.jpg" alt="alt text" width="300" height="400">
 It is an Android application based on Online Food Ordering System.
 It allows users to order food from the restaurants available on the app.
 Users can also mark their favourite restaurants on the application ,so whenever the next time they login they can directly order food from their favorite restaurants.
