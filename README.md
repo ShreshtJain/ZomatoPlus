@@ -1,6 +1,6 @@
 # ZomatoPlus
 
-<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Splash%20screen.jpg" alt="alt text" width="300" height="400">
+<img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Splash%20screen.jpg" alt="alt text" width="250" height="400">
 <img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Login%20Activity.jpg" alt="alt text" width="300" height="400">
 <img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/menu%20List2.jpg" alt="alt text" width="300" height="400">
 <img src="https://github.com/ShreshtJain/ZomatoPlus/blob/master/Screenshots/Restaurant.jpg" alt="alt text" width="300" height="400">
