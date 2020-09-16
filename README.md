@@ -26,7 +26,7 @@ For making payments users are requested to have :
     2.Sim on their android phone must be the same through which they linked their Google pay account with their bank account. 
 Users can see their previous orders in order history.
 
-The app is built in kotlin,XML and Java and uses volley to send get and post request from the Internshala server through rest api calls.
+The app is built using kotlin,XML and Java through android studio and uses volley to send get and post request from the Internshala server through rest api calls.
 The app also uses the room Persistence library to send data to the SQLite database.
 Favourite restaurants are saved inside sqlite relational database management system.
 Order history of the user is fetched from the internshala's server using JSON requests.
