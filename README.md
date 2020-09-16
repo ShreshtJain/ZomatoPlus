@@ -28,6 +28,8 @@ Users can see their previous orders in order history.
 
 The app is built in kotlin,XML and Java and uses volley to send get and post request from the Internshala server through rest api calls.
 The app also uses the room Persistence library to send data to the SQLite database.
+Favourite restaurants are saved inside sqlite relational database management system.
+Order history of the user is fetched from the internshala's server using JSON requests.
 
 Main features considered while developing
 1.Recycler Views
